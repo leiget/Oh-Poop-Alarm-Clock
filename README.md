@@ -3,7 +3,7 @@ A simple alarm clock application that counts up (like a stopwatch) and down (lik
 
 --------------------------------------------
 
-LICENSE:
+# LICENSE:
 
 This program is copyright 2010 James Russell.
 You can use this code however you like, with exceptions. You don't need to give credit.
