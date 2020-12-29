@@ -1,0 +1,13 @@
+ESC=Quit
+Space=Pause/Unpause timer.
+R=Reset timer. If the timer is counting up, it will reset to 0.
+	If the timer is counting down, it will reset to the last
+	time input.
+Enter=Switch the counter to count up or down.
+F=Show FPS.
+F12=Take screenshot.
+
+	Press the "Set Time" button to get into "Set Time" mode.
+Press the arrows on the clock that have now popped up to set
+the time to what you want. Then, press the "Set Time" button
+again to set the time.

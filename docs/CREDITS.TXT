@@ -1,0 +1,20 @@
+This is a creation of Oh! Poop! Productions! tm
+The only member of it is James Russell (Lei-Get Morzmorality aka Henrymop)
+
+Credits:
+
+James Russell (aka Henrymop or Lei-Get)---------Graphics and programming.
+cgtextures.com----------------------------------Wood texture.
+Dusit Supasawat,email:dusit@mailcity.com--------Digital TrueType font (DS-Digital). Copyright info in DIGITAL.TXT
+Lazy Foo from lazyfoo.net-----------------------Used some C++ functions from his site as a starting point
+						    and also wholly used one function. See the source code
+						    comments for details.
+Red Hat Inc.------------------------------------Liberation Fonts.
+Gary Russell------------------------------------Added icon functionality.
+
+    If anyone notices someone whom I didn't give credit to, which I doubt I have,
+please tell me at leiget@gmail.com
+    I don't check my e-mail often, but I might see it anyway.
+    I don't mean to take away any copyrights or to trespass on anothers rights, so
+if you have a problem with anything I've used in this program pertaining to intellectual
+rights or any other rights, contact me at my email at leiget@gmail.com

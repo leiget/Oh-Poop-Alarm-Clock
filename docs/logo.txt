@@ -1,0 +1,9 @@
+    The Oh! Poop! Productions! name and logo, the logo being represented
+in the graphics files named "icon.bmp" and "logo.png", is intellectual
+property and an unregistered trademark of James Russell aka Lei-Get
+Morzmorality aka Henrymop. Do not use it. Do not use it in other programs.
+If you modify the "OhPoopClock", give it a different name, and upload it
+as another program, than you must remove this logo from the program and
+it's source code and media. This means you must remove every trace of this
+logo from your program, according to the terms above.
+    Do not pass this logo off as your own. All rights reserved.
